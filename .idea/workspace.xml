@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adb0bfda-6ee9-4f4d-a93b-24ca7e33212c" name="Changes" comment="fix eureka client &amp; code eureka cluster">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/eureka_7001" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/eureka_7001/server/eureka_7001" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/eureka_7002" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/eureka_7002/server/eureka_7002" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/eureka_7003" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/eureka_7003/server/eureka_7003" afterDir="false" />
+    <list default="true" id="adb0bfda-6ee9-4f4d-a93b-24ca7e33212c" name="Changes" comment="add server">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/server/eureka_7003" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -70,7 +58,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "<unknown>",
     "jdk.selected.JAVA_MODULE": "1.8",
     "last_directory_selection": "D:/software/RocketEdit/IntelliJ IDEA 2023.2/projects/demo_SpringCloud/eureka_server/src/main/java/com/re",
     "last_opened_file_path": "D:/software/RocketEdit/IntelliJ IDEA 2023.2/projects/demo_SpringCloud/server/eureka_7003/pom.xml",
@@ -182,7 +170,7 @@
       <workItem from="1692091056579" duration="6800000" />
       <workItem from="1692168029233" duration="1225000" />
       <workItem from="1692169266684" duration="7055000" />
-      <workItem from="1692176338346" duration="1701000" />
+      <workItem from="1692176338346" duration="2252000" />
     </task>
     <task id="LOCAL-00001" summary="fix eureka client &amp; code eureka cluster">
       <option name="closed" value="true" />
@@ -222,7 +210,8 @@
       <path value="$PROJECT_DIR$/server/eureka_7003" />
     </ignored-roots>
     <MESSAGE value="fix eureka client &amp; code eureka cluster" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix eureka client &amp; code eureka cluster" />
+    <MESSAGE value="add server" />
+    <option name="LAST_COMMIT_MESSAGE" value="add server" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
