@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/common/src/main/resources/archetype-resources" includeSubdirectories="true" />
+    </excludeFromCompile>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eureka_7001" />
+        <module name="eureka_7002" />
+        <module name="haha_service" />
+        <module name="eureka_7003" />
+        <module name="common" />
+        <module name="hello_service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eureka_7001 (1)" target="1.8" />
+      <module name="eureka_7001 (2)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="common" options="-parameters" />
+      <module name="eureka_7001" options="-parameters" />
+      <module name="eureka_7001 (1)" options="-parameters" />
+      <module name="eureka_7001 (2)" options="-parameters" />
+      <module name="eureka_7002" options="-parameters" />
+      <module name="eureka_7003" options="-parameters" />
+      <module name="haha_service" options="-parameters" />
+      <module name="hello_service" options="-parameters" />
+      <module name="server" options="" />
+    </option>
+  </component>
+</project>

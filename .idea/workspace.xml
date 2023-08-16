@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="adb0bfda-6ee9-4f4d-a93b-24ca7e33212c" name="Changes" comment="fix eureka client &amp; code eureka cluster">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/eureka_7001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/eureka_7001/server/eureka_7001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/eureka_7002" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/eureka_7002/server/eureka_7002" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/eureka_7003" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/eureka_7003/server/eureka_7003" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\software\RocketEdit\tools\apache-maven-3.8.8\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../tools/apache-maven-3.8.8" />
+        <option name="userSettingsFile" value="D:\software\RocketEdit\tools\apache-maven-3.8.8\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2U0yzcbnnMsPbg7eQfxX1UYpawt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_directory_selection": "D:/software/RocketEdit/IntelliJ IDEA 2023.2/projects/demo_SpringCloud/eureka_server/src/main/java/com/re",
+    "last_opened_file_path": "D:/software/RocketEdit/IntelliJ IDEA 2023.2/projects/demo_SpringCloud/server/eureka_7003/pom.xml",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2886133",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "spring.configuration.checksum": "ddad29dfd8ae850f8a660ab7fcb2dd79",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Eureka7001Application">
+    <configuration name="CommonApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.re.common.CommonApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Eureka7001Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="eureka_7001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.re.eureka_7001.Eureka7001Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Eureka7002Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="eureka_7002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.re.eureka_7002.Eureka7002Application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.re.eureka_7002.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Eureka7003Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="eureka_7003" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.re.eureka_7003.Eureka7003Application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.re.eureka_7003.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HahaServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="haha_service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.re.haha_service.HahaServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="hello_service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.re.hello_service.HelloServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.Eureka7001Application" />
+      <item itemvalue="Spring Boot.CommonApiApplication" />
+      <item itemvalue="Spring Boot.HahaServiceApplication" />
+      <item itemvalue="Spring Boot.HelloServiceApplication" />
+      <item itemvalue="Spring Boot.Eureka7002Application" />
+      <item itemvalue="Spring Boot.Eureka7003Application" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Eureka7003Application" />
+        <item itemvalue="Spring Boot.Eureka7002Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="adb0bfda-6ee9-4f4d-a93b-24ca7e33212c" name="Changes" comment="" />
+      <created>1692091055443</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692091055443</updated>
+      <workItem from="1692091056579" duration="6800000" />
+      <workItem from="1692168029233" duration="1225000" />
+      <workItem from="1692169266684" duration="7055000" />
+      <workItem from="1692176338346" duration="1701000" />
+    </task>
+    <task id="LOCAL-00001" summary="fix eureka client &amp; code eureka cluster">
+      <option name="closed" value="true" />
+      <created>1692174038041</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692174038041</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/business_center" />
+      <path value="$PROJECT_DIR$/business_center/haha_service" />
+      <path value="$PROJECT_DIR$/business_center/hello_service" />
+      <path value="$PROJECT_DIR$/common_api" />
+      <path value="$PROJECT_DIR$/eureka_server" />
+      <path value="$PROJECT_DIR$/server/eureka_7001" />
+      <path value="$PROJECT_DIR$/server/eureka_7002" />
+      <path value="$PROJECT_DIR$/server/eureka_7003" />
+    </ignored-roots>
+    <MESSAGE value="fix eureka client &amp; code eureka cluster" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix eureka client &amp; code eureka cluster" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
