@@ -20,8 +20,22 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/server/eureka_7003" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "RocketEngine26"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="dc9a9927-6b82-44c2-a192-a03687db852d" />
+        <option name="url" value="https://github.com/RocketEngine26/demo_SpringCloud.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -58,7 +72,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "<unknown>",
+    "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "1.8",
     "last_directory_selection": "D:/software/RocketEdit/IntelliJ IDEA 2023.2/projects/demo_SpringCloud/eureka_server/src/main/java/com/re",
     "last_opened_file_path": "D:/software/RocketEdit/IntelliJ IDEA 2023.2/projects/demo_SpringCloud/server/eureka_7003/pom.xml",
@@ -170,7 +184,7 @@
       <workItem from="1692091056579" duration="6800000" />
       <workItem from="1692168029233" duration="1225000" />
       <workItem from="1692169266684" duration="7055000" />
-      <workItem from="1692176338346" duration="2252000" />
+      <workItem from="1692176338346" duration="2951000" />
     </task>
     <task id="LOCAL-00001" summary="fix eureka client &amp; code eureka cluster">
       <option name="closed" value="true" />
