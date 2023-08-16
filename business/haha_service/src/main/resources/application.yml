@@ -1,0 +1,14 @@
+server:
+  port: 3002
+
+eureka:
+  instance:
+    prefer-ip-address: true
+  client:
+    service-url:
+      defaultZone: https://localhost:7001/eureka/
+    register-with-eureka: false
+    fetch-registry: false
+spring:
+  application:
+    name: single-provider-3002

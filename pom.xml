@@ -14,9 +14,9 @@
     <name>demo_SpringCloud</name>
     <description>demo_SpringCloud</description>
     <modules>
-        <module>common_api</module>
-        <module>eureka_server</module>
-        <module>business_center</module>
+        <module>common</module>
+        <module>server</module>
+        <module>business</module>
     </modules>
     <properties>
         <java.version>1.8</java.version>
