@@ -6,6 +6,7 @@
         <artifactId>business</artifactId>
         <groupId>com.re</groupId>
         <version>0.0.1-SNAPSHOT</version>
+        <relativePath>../../pom.xml</relativePath>
     </parent>
     <artifactId>hello_service</artifactId>
     <name>hello_service</name>
@@ -24,5 +25,4 @@
             <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
         </dependency>
     </dependencies>
-
 </project>

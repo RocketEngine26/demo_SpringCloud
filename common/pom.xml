@@ -6,6 +6,7 @@
         <artifactId>demo_SpringCloud</artifactId>
         <groupId>com.re</groupId>
         <version>0.0.1-SNAPSHOT</version>
+        <relativePath>../pom.xml</relativePath>
     </parent>
     <artifactId>common</artifactId>
     <name>common</name>
